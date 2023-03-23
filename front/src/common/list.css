@@ -1,0 +1,28 @@
+/* 
+table, th, td {
+    border: 1px solid;
+    padding: 0.5rem;
+  } */
+
+/* .table {
+    border-collapse: collapse;
+    border-spacing: 0.5rem;
+    width: 75%;
+    height: 75%
+} */
+
+td, th {
+    width: 4rem;
+    height: 2rem;
+    border: 1px solid #ccc;
+    text-align: center;
+  }
+  th {
+    background: lightblue;
+    border-color: white;
+  }
+  .class__body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }

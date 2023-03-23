@@ -1,0 +1,34 @@
+.video__layout {
+    position: absolute;
+    right: 40%;
+    left: 5.5%;
+    height: 80%;
+    width: 89%;
+    /* border: 2px solid red; */
+}
+
+.video__card {
+    height: 100%;
+    width: 50%;
+    /* border: 1px solid red; */
+    margin-right: 5rem;
+    margin-bottom: 5rem;
+}
+
+.upload__video {
+    height: 10%;
+    width: 30%;
+    /* border: 1px solid red; */
+    position: absolute;
+    right: 50%;
+    left: 35%;
+    bottom: 0%;
+    top: 95%;
+}
+
+.paginate__buttons {
+    height: 5%;
+    width: 30%;
+    /* border: 1px solid red; */
+    margin: auto;
+}

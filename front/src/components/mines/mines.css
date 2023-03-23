@@ -1,0 +1,99 @@
+.mines__test {
+    height: 50rem;
+    width: 93%;
+    background-color: rgba(232, 100, 0, 255);
+    /* border: 2px solid red; */
+    margin-left: 3%;
+}
+
+.mines__layout1 {
+    position:absolute;
+    height: 62.8%;
+    width: 6%;
+    /* border: 2px solid red; */
+    /* border-top: hidden; */
+    left: 15.6rem;
+    top: 13.8rem;
+}
+.mines__button1 {
+    height: 16%;
+    width: 8%;
+    /* border: 2px solid red; */
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+
+
+.mines__button3 {
+    height: 16%;
+    width: 8%;
+    /* border: 2px solid red; */
+    margin-top: 1rem;
+    margin-left: 5rem;
+}
+
+.mines__layout2 {
+    position:absolute;
+    height: 62.8%;
+    width: 6%;
+    /* border: 2px solid red; */
+    /* border-top: hidden; */
+    left: 24rem;
+    top: 13.8rem;
+}
+
+.mines__button2 {
+    height: 17.5%;
+    width: 100%;
+    /* border-bottom: 2px solid red; */
+    /* border-top: 2px solid red; */
+    margin-bottom: 1rem;
+}
+
+.mines__layout3 {
+    position:absolute;
+    height: 62.8%;
+    width: 6%;
+    /* border: 2px solid red; */
+    /* border-top: hidden; */
+    left: 32.4rem;
+    top: 13.8rem;
+}
+.mines__layout4 {
+    position:absolute;
+    height: 62.8%;
+    width: 6%;
+    /* border: 2px solid red; */
+    /* border-top: hidden; */
+    left: 40.8rem;
+    top: 13.8rem;
+}
+
+.mines__layout5 {
+    position:absolute;
+    height: 62.8%;
+    width: 6%;
+    /* border: 2px solid red; */
+    /* border-top: hidden; */
+    left: 49.2rem;
+    top: 13.8rem;
+}
+
+.betting__tab {
+    height: 70%;
+    width: 30%;
+    position: absolute;
+    border: 2px solid red;
+    left: 60%;
+    top: 20%;
+}
+
+.window__ {
+    height: 400px;
+    width: 400px;
+    background-color: white;
+}
+
+
+
+

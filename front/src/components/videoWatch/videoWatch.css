@@ -1,0 +1,9 @@
+.video__details {
+    height: 10rem;
+    width: 60%;
+    margin: auto;
+}
+
+.changeToWhite {
+    color: white;
+}

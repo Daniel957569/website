@@ -1,0 +1,15 @@
+export { default as Links } from "./../components/links/links";
+export { default as Chat } from "./../components/chats/chat";
+export { default as Photos } from "./../components/photo/photos";
+export { default as Logout } from "./../components/logout/logut";
+export { default as Videos } from "./../components/videos/videos";
+export { default as Mines } from "./../components/mines/mines";
+export { default as Login } from "./../components/login/login";
+export { default as VideoWatch } from "./../components/videoWatch/videoWatch";
+export { default as PhotosWatch } from "./../components/photosWatch/photoWatch";
+export { default as SignUp } from "./../components/signup/signup";
+export { default as Welcome } from "./welcome/welcome";
+export { default as Account } from "./account/account";
+export { default as Forms } from "./Forms/forms";
+export { default as TweetsForm } from "./tweetsForm/tweets";
+export { default as Edit } from "./edit/edit";

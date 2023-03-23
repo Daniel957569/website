@@ -1,0 +1,32 @@
+.Upload__Kit {
+    margin: auto;
+    margin-bottom: 3rem;
+}
+
+.testing {
+    /* border: 1px solid red; */
+    height: "40%";
+    width: "60%";
+}
+
+.size__div {
+    height: "40%";
+    width: "10rem";
+    /* border: 1px solid red; */
+}
+
+.test {
+    position: absolute;
+    left: 47%;
+}
+
+.button_label { 
+    /* position: absolute;
+    left: 50%;
+    right: 50%; */
+
+    /* position: relative;
+    align-items: right;
+    justify-content: right; */
+    margin: auto;
+}

@@ -1,0 +1,32 @@
+.main {
+    height: 43.75rem;
+    width: 93%;
+    /* margin: 5rem 5rem 5rem 5rem; */
+    border:2px solid rgba(0, 0,0 ,0.86);
+    position: relative;
+    /* right: 20%; */
+    left: 70px;
+    background-color: rgba(0,0,0, 0.29);
+    outline: 0px;
+}
+
+
+
+.box {
+    height: 200px;
+    width: 200px;
+}
+
+/* .settings_ {
+    height: 700px;
+    width: 400px;
+    border: 2px sloid red
+} */
+
+.inputPoiner {
+    cursor: pointer;
+}
+
+.button_label {
+    pointer-events: none;
+}
